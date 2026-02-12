@@ -3,3 +3,4 @@ emoji
 type option
 colors
 vibrant 
+
