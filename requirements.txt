@@ -1,4 +1,4 @@
-this is a chat application
+thisis a chat application
 emoji
 type option
 colors
@@ -6,3 +6,7 @@ vibrant
 
 dark mode
 video calls
+
+payment options
+send money
+receive money
